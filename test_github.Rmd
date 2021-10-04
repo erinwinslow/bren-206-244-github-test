@@ -1,5 +1,5 @@
 ---
-title: "ESM 206/244 GitHub Testing"
+title: "ESM 206/244 GitHub Testing Winslow"
 output: html_document
 ---
 
@@ -12,6 +12,7 @@ Type your name (or anything else) HERE:
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
+turquiose <- 56 
 
 blue <- 10
 
